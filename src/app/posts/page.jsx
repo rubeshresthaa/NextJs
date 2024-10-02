@@ -1,6 +1,4 @@
 import PostForm from "../components/PostForm";
-
-
 const New = () => {
   return (
     <div className="container mx-auto px-4">

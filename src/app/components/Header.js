@@ -1,4 +1,4 @@
-// components/Header.js
+
 import Link from 'next/link';
 
 const Header = () => {
